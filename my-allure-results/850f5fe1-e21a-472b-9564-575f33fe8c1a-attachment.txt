@@ -1,0 +1,4 @@
+200 {"id":35798908,"category":{"id":11111112,"name":"pet_CategoryName"},"name":"doggie","photoUrls":["string"],"tags":[{"id":1,"name":"example"}],"status":"available"}
+Pet ID is : 35798908
+Category.Name is : pet_CategoryName
+Pet Name is : doggie
