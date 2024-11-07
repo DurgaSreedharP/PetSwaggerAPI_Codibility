@@ -1,0 +1,4 @@
+200 {"id":1112,"category":{"id":0,"name":"Pet_CategtoryNameUpdated"},"name":"Alaska","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+Updated Pet ID is : 1112
+Updated Category.Name is : Pet_CategtoryNameUpdated
+Pet Name is : Alaska
